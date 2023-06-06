@@ -23,7 +23,8 @@ MERN stack === MongoDB + Express.js + React.js + Node.js 사용해 웹 어플리
 
 > 👉🏻 시스템 기능도 <br />
 > 
-
+### 회원 정보 변경 <br />
+![정보변경](https://user-images.githubusercontent.com/68539040/174230527-aedc5dc0-8883-4a3e-bac6-e682ff4d28fc.gif)  <br />  <br />
 
 
 
