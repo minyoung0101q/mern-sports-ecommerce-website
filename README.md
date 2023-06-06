@@ -42,14 +42,16 @@ Session 과 비교했을 때, 세션은 서버 측에서 상태를 유지하기 
 ## 주요 기능
 > BES 회원이 사이트에 가입해서 ecommerce 웹을 사용할 때를 초점으로 맞춰 주요 기능을 말씀드리겠습니다.
 
-### 로그인/>
+### 로그인
 ![로그인](https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/2af2a883-36b2-458f-b3f6-61e9f1b0b9e1) <br />
 로그인을 진행합니다. <br /> <br />
 ![메인화면에서 프로필 확인](https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/2f96d79b-ea94-4668-82bb-781840a6ed22) <br />
 메인 화면에서 프로필을 확인할 수 있습니다. <br /> <br />
 
-### 프로필 수정 <br />
 ![프로필 수정](https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/053f63a4-0d49-4a54-a10e-e8bfc6ff4d0f) <br />
+
+### 프로필 수정 <br />
+![홍길동 프로필 수정-이현지로 수정 모든 요소 수정](https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/08333dbc-b1d9-4f78-b10c-2bbd003f701f)
 프로필의 이름, 이메일, 비밀번호 모두 수정 가능합니다.
 3가지를 모두 수정했습니다.
 <br />
