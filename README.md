@@ -63,7 +63,7 @@ Session 과 비교했을 때, 세션은 서버 측에서 상태를 유지하기 
 https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/8188bc5e-44f3-44e8-be12-daefefcc8884 
 <br />
 
-> 관리자 페이지에서는 이현이라는 회원이 주문하기 버튼을 눌러 주문번호 생성한 상태를 확인할 수 있습니다.
+> 관리자 페이지에서는 이현이라는 회원이 주문하기 버튼을 눌러 생성한 주문번호 관련 정보를 확인할 수 있습니다.
 https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/d5370d40-7968-47ee-92ef-b110b2c990b3
 <br />
 
