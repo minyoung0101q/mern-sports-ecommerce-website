@@ -55,7 +55,7 @@ Session 과 비교했을 때, 세션은 서버 측에서 상태를 유지하기 
 프로필의 이름, 이메일, 비밀번호 모두 수정 가능합니다.
 3가지를 모두 수정했습니다.
 <br />
-> 지금부터 사용자, 회원이 BES 웹사이트를 사용하는 과정을 시연 영상을 통해 보여드리겠습니다. 
+> **지금부터 사용자, 회원이 BES 웹사이트를 사용하는 과정을 시연 영상을 통해 보여드리겠습니다.** 
 <br />
 
 ### 주문번호 생성과정의 시연영상 <br />
@@ -66,16 +66,19 @@ https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/
 > 관리자 페이지에서는 이현이라는 회원이 주문하기 버튼을 눌러 생성한 주문번호 관련 정보를 확인할 수 있습니다.
 https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/d5370d40-7968-47ee-92ef-b110b2c990b3
 <br />
+
+### paypal을 활용한 결제 과정 <br />
+> 결제 과정을 담은 시연 영상 입니다. <br />
+https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/2aa545cd-4b83-4ac7-818b-afcd2cd212e0
 <br />
 
-### 주문번호 생성과정의 시연영상 <br />
-> 결제 이전까지의 과정을 담은 시연 영상 입니다. <br />
-https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/8188bc5e-44f3-44e8-be12-daefefcc8884 
-<br />
-
-> 관리자 페이지에서는 이현이라는 회원이 주문하기 버튼을 눌러 생성한 주문번호 관련 정보를 확인할 수 있습니다.
+> 관리자 페이지에서는 이현이라는 회원의 결제제 관련 정보를 확인할 수 있습니다.
 https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/d5370d40-7968-47ee-92ef-b110b2c990b3
 <br />
+
+
+
+
 
 <br /> <hr /> <br /> <br />
 
