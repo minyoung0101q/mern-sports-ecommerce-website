@@ -80,6 +80,9 @@ https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/
 https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/2a7bdb67-f06e-4e94-95ca-c1d5c2f64ec4
 <br />
 
+### 관리자 계정 시연 영상 <br />
+> 위 영상의 결제 과정에서 회원 페이지와 관리자 페이지를 이동하며 보여드렸습니다. <br />
+> 시연 영상 : 위의 영상에서 나오지 않은 관리자 페이지의 카테고리에 대해 소개합니다.<br />
 > 지금부터 관리자가 BES 웹사이트를 관리하는 과정을 시연 영상으로 보여드리겠습니다. <br />
 > 관리자 페이지에는 대시보드, 제품, 제품 추가, 주문, 사용자 등의 카테고리가 있습니다. <br />
 > 아래 영상에서 제품을 추가, 수정, 삭제하는 과정을 확인할 수 있습니다. <br />
