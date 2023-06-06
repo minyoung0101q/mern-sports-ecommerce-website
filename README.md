@@ -72,14 +72,11 @@ https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/
 https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/2aa545cd-4b83-4ac7-818b-afcd2cd212e0
 <br />
 
-> 관리자 페이지에서는 이현이라는 회원의 결제제 관련 정보를 확인할 수 있습니다.
-https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/d5370d40-7968-47ee-92ef-b110b2c990b3
+> 관리자 페이지에서는 이현이라는 회원의 결제 관련 정보를 확인할 수 있습니다. <br />
+> 또한 회원의 배달 완료 여부 표시를 관리자 페이지에서 해줍니다. <br />
+> 관리자가 배달 완료 표시해주면 => 회원은 배달 완료 유무를 확인합니다.
+https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/2a7bdb67-f06e-4e94-95ca-c1d5c2f64ec4
 <br />
-
-
-
-
-
 <br /> <hr /> <br /> <br />
 
 ### 📝 클론코딩 후기 및 React 개발자 꿈!
