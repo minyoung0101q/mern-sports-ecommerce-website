@@ -5,6 +5,13 @@ MERN stack === MongoDB + Express.js + React.js + Node.js 사용해 웹 어플리
 > 스포츠 용품을 판매하는 브랜드 웹사이트 <br />
 대표 상품인 운동화를 비롯해 의류 등 각종 스포츠 웨어 판매
 
+> 👉🏻 간단한 설명 <br />
+>  회원 사이트와 관리자 사이트를 따로 구현했습니다. <br />
+>  회원 계정에서는 회원가입, 로그인, 상품 조회/장바구니/구매/리뷰/별점/댓글 등의 쇼핑몰 서비스를 제공합니다. <br />
+>  결제는 Paypal을 활용했습니다.
+>   현재 [I am port](https://www.iamport.kr/?gclid=CjwKCAjws8yUBhA1EiwAi_tpEawr0NbpwdG_4bW9KRPVRXXVEdwQ32yO8SyXEhMBfxiqHIml3c8uxhoC2nYQAvD_BwE, "Iamport link") 결제 API를 연동하여 실제 거래까지 이루어지지만, 현재 배포된 사이트에서는 당일 자정에 모두 환불됩니다. 안심하고 테스트 해보세요!
+<br />
+
 > 👉🏻 시스템 요구 분석 <br />
 > 회원(사용자) <br /> 1. 간단한 프로필 수정, 세부적인 주문내역 확인 <br />
 세부적인 주문내역에는 아이디, 결제유무, 결제일, 금액 등이 있습니다. <br />
@@ -15,12 +22,13 @@ MERN stack === MongoDB + Express.js + React.js + Node.js 사용해 웹 어플리
 > <br /> 2. 제품/주문관리 => 제품 추가/수정/삭제, 등록한 제품 확인, 주문/상세 내역 확인, 배송 완료 체크 <br /> 3. 사용자 목록 관리 => 사용자 목록 확인
 
 
-> 👉🏻 시스템 요구 분석 <br />
->  회원가입, 로그인, 카카오로그인, 상품 등록/조회/수정/삭제/좋아요/장바구니/구매 등 다양한 쇼핑몰 서비스를 제공하기 위해 만들어졌습니다. 현재 [I am port](https://www.iamport.kr/?gclid=CjwKCAjws8yUBhA1EiwAi_tpEawr0NbpwdG_4bW9KRPVRXXVEdwQ32yO8SyXEhMBfxiqHIml3c8uxhoC2nYQAvD_BwE, "Iamport link") 결제 API를 연동하여 실제 거래까지 이루어지지만, 현재 배포된 사이트에서는 당일 자정에 모두 환불됩니다. 안심하고 테스트 해보세요!
-<br />
+
 
 > 👉🏻 시스템 기능도 <br />
 > 
+
+
+
 
 ## 사용 기술 스택
 
