@@ -84,11 +84,11 @@ https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/
 https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/2a2d92f0-87d8-453c-bc7f-16c4f429c46c
 <br />
 
-> 관리자 페이지에서 제품을 추가, 수정, 삭제하면 회원 페이지에서도 반영되는 것을 확인할 수 있습니다.
-https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/2a2d92f0-87d8-453c-bc7f-16c4f429c46c
+> 관리자 페이지에서 제품을 추가, 수정, 삭제하면 회원 페이지에서도 반영됩니다.
+https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/c24b5f32-37b0-4fde-831f-68e95fcb3486
 <br />
 
-<hr /> <br /> <br />
+<hr /> <br /> 
 
 ### 📝 클론코딩 후기 및 React 개발자 꿈!
 **클론 코딩을 통해 처음으로 개발한 풀스택 프로젝트입니다.**
