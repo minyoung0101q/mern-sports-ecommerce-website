@@ -48,8 +48,8 @@ Session 과 비교했을 때, 세션은 서버 측에서 상태를 유지하기 
 ![메인화면에서 프로필 확인](https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/2f96d79b-ea94-4668-82bb-781840a6ed22) <br />
 메인 화면에서 프로필을 확인할 수 있습니다. <br /> <br />
 
-### 회원 정보 변경 <br />
-![정보변경](https://user-images.githubusercontent.com/68539040/174230527-aedc5dc0-8883-4a3e-bac6-e682ff4d28fc.gif)  <br />  <br />
+### 프로필 수정 <br />
+![프로필 수정](https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/053f63a4-0d49-4a54-a10e-e8bfc6ff4d0f) <br />  <br />
 
 
 ### 2. 🛍 상품 업로드
