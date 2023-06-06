@@ -1,8 +1,8 @@
 # MERN_react_ecommerce
 MERN stack === MongoDB + Express.js + React.js + Node.js 사용해 웹 어플리케이션을 개발하는 JavaScript 기반 프레임워크
 
-# BES : Backend Sports 
-스포츠 용품을 판매하는 브랜드 웹사이트 <br />
+> 👉🏻 BES : Backend Sports <br />
+> 스포츠 용품을 판매하는 브랜드 웹사이트 <br />
 대표 상품인 운동화를 비롯해 의류 등 각종 스포츠 웨어 판매
 
 > 👉🏻 Summary <br />
