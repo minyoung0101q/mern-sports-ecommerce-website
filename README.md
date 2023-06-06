@@ -95,7 +95,7 @@ https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/
 
 <hr /> <br /> 
 
-### 📝 클론코딩 후기 및 React 개발자 꿈!
+### 📝 클론코딩 후기 및 React 개발자를 향한 !
 **클론 코딩을 통해 처음으로 개발한 풀스택 프로젝트입니다.**
 + React 개발자의 꿈을 향해  <br />
 이 프로젝트는 클론 코딩을 통해 개발한 결과물입니다. <br />
