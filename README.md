@@ -49,26 +49,12 @@ Session 과 비교했을 때, 세션은 서버 측에서 상태를 유지하기 
 메인 화면에서 프로필을 확인할 수 있습니다. <br /> <br />
 
 ### 프로필 수정 <br />
-![프로필 수정](https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/053f63a4-0d49-4a54-a10e-e8bfc6ff4d0f) <br />  <br />
+![프로필 수정](https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/053f63a4-0d49-4a54-a10e-e8bfc6ff4d0f) <br />
+프로필의 이름, 이메일, 비밀번호 모두 수정 가능합니다.
+3가지를 모두 수정했습니다.
 
-
-### 2. 🛍 상품 업로드
-상품 업로드는 회원 가입 후 가능합니다. <br />
-실제 쇼핑몰에서는 일반 회원가 아닌 판매자 role만 가능한 기능이지만  <br />
-원활한 테스트의 진행을 위해 일반 회원도 글 작성이 가능하게 구현했습니다. <br />
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/68539040/174232925-6e9cb0d1-d92c-46bc-8f24-d53ba1322936.gif)  <br />  <br />
-
-### 💓 좋아요
-상품 목록에서 개별 좋아요/좋아요 취소 <br />
-<img width="800" alt="좋아요" src="https://user-images.githubusercontent.com/68539040/174553331-3d8a952e-4d02-4371-b492-82836a7995bd.png"> <br /> <br />
-
-### 🛒 장바구니
-상품 1개 장바구니 담기, 내 장바구니 목록 조회, 장바구니 개별 취소 <br />
-![2022-06-20-151633-1960221706](https://user-images.githubusercontent.com/68539040/174537326-5f740810-66bf-40af-a4a4-9c9b02e29437.gif) <br /> <br />
-
-### 💳 결제
-상품결제 시연 영상 입니다. <br />
+### 💳 상품을 조회하고 주문하고 장바구니에 담고 결제 💳 
+~결제까지의 과정을 담은 시연 영상 입니다. <br />
 https://user-images.githubusercontent.com/68539040/174537846-1ae2891e-dee2-42e8-8196-93af8656267d.MP4 <br /> <hr /> <br /> <br />
 
 ### 📝 클론코딩 후기 및 React 개발자 꿈!
