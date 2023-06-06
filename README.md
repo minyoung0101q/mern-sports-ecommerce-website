@@ -1,13 +1,21 @@
-# MERN_react_ecommerce
+# MERN-react-ecommerce
 MERN stack === MongoDB + Express.js + React.js + Node.js 사용해 웹 어플리케이션을 개발하는 JavaScript 기반 프레임워크
 
 > 👉🏻 BES : Backend Sports <br />
 > 스포츠 용품을 판매하는 브랜드 웹사이트 <br />
 대표 상품인 운동화를 비롯해 의류 등 각종 스포츠 웨어 판매
 
-> 👉🏻 Summary <br />
-> 이 프로젝트는 스프링부트와 리액트로 회원가입, 로그인, 카카오로그인, 상품 등록/조회/수정/삭제/좋아요/장바구니/구매 등 다양한 쇼핑몰 서비스를 제공하기 위해 만들어졌습니다. 현재 [I am port](https://www.iamport.kr/?gclid=CjwKCAjws8yUBhA1EiwAi_tpEawr0NbpwdG_4bW9KRPVRXXVEdwQ32yO8SyXEhMBfxiqHIml3c8uxhoC2nYQAvD_BwE, "Iamport link") 결제 API를 연동하여 실제 거래까지 이루어지지만, 현재 배포된 사이트에서는 당일 자정에 모두 환불됩니다. 안심하고 테스트 해보세요!
+> 👉🏻 시스템 요구 분석 <br />
+> 회원(사용자) : 간단한 프로필 수정, 세부적인 주문내역 확인
+세부적인 주문내역에는 아이디, 결제유무, 결제일, 금액 등이 있습니다.
+
+
+> 👉🏻 시스템 요구 분석 <br />
+>  회원가입, 로그인, 카카오로그인, 상품 등록/조회/수정/삭제/좋아요/장바구니/구매 등 다양한 쇼핑몰 서비스를 제공하기 위해 만들어졌습니다. 현재 [I am port](https://www.iamport.kr/?gclid=CjwKCAjws8yUBhA1EiwAi_tpEawr0NbpwdG_4bW9KRPVRXXVEdwQ32yO8SyXEhMBfxiqHIml3c8uxhoC2nYQAvD_BwE, "Iamport link") 결제 API를 연동하여 실제 거래까지 이루어지지만, 현재 배포된 사이트에서는 당일 자정에 모두 환불됩니다. 안심하고 테스트 해보세요!
 <br />
+
+> 👉🏻 시스템 기능도 <br />
+> 
 
 ## 사용 기술 스택
 
