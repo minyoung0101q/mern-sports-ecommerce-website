@@ -24,8 +24,6 @@ MERN stack === MongoDB + Express.js + React.js + Node.js 사용해 웹 어플리
 > 👉🏻 시스템 기능도 <br />
 ![정보변경](https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/cc1634d9-89de-4508-a836-2b6bf50fbc35) <br />
 
-
-
 ## 사용 기술 스택
 
 - **React** 
@@ -33,12 +31,9 @@ MERN stack === MongoDB + Express.js + React.js + Node.js 사용해 웹 어플리
     서비스에서 회원 기능을 지원하기 때문에 이에 필수적인 인증, 인가 기능을 적용하기 위해 사용했습니다.
 - JWT
   - 토큰 기반 인증을 구현하기 위해 사용하였습니다. Session 방식보다 확장성이 높고, 자원낭비가 덜하다고 생각해 (세션 클러스터링 등) 로그인 방식으로 JWT를 사용했습니다. [JWT](https://blog.naver.com/ghdalswl77/222517833354)
-- **MySQL 8.0.26**
+- **MongoDB**
   - 상품 검색 기능을 지원하기 때문에 보다 편리한 검색을 위해 문자열 비교에서 대소 문자를 구분하지 않는다는 장점이 있는 MySQL을 사용했습니다.
--  **AWS EC2 배포**
-  - 스프링부트 프로젝트와 AWS RDS 연동으로 'A Little Vanilla' 에 웹사이트를 배포했습니다.
-- **Jenkins CI/CD**
-  - git push가 발생 할 때마다 빌드와 테스트를 자동화 하여 개발 효율성을 높일 수 있도록 젠킨스를 활용하였습니다.  
+ 
 
 <br />
 
