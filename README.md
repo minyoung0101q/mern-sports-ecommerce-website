@@ -42,11 +42,11 @@ Session 과 비교했을 때, 세션은 서버 측에서 상태를 유지하기 
 ## 주요 기능
 > BES 회원이 사이트에 가입해서 ecommerce 웹을 사용할 때를 초점으로 맞춰 주요 기능을 말씀드리겠습니다.
 
-### />
-![회원가입](https://user-images.githubusercontent.com/68539040/174229163-87deaa3e-713b-428f-8bce-c2c0478e492d.gif) <br />
-소셜 로그인(카카오)으로 회원 가입을 진행할 수 있습니다.  <br /> <br />
-
-![회원가입](https://user-images.githubusercontent.com/68539040/174229163-87deaa3e-713b-428f-8bce-c2c0478e492d.gif) <br />
+### 로그인/>
+![로그인](https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/2af2a883-36b2-458f-b3f6-61e9f1b0b9e1) <br />
+로그인을 진행합니다. <br /> <br />
+![메인화면에서 프로필 확인](https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/2f96d79b-ea94-4668-82bb-781840a6ed22) <br />
+메인 화면에서 프로필을 확인할 수 있습니다. <br /> <br />
 
 ### 회원 정보 변경 <br />
 ![정보변경](https://user-images.githubusercontent.com/68539040/174230527-aedc5dc0-8883-4a3e-bac6-e682ff4d28fc.gif)  <br />  <br />
@@ -85,7 +85,7 @@ https://user-images.githubusercontent.com/68539040/174537846-1ae2891e-dee2-42e8-
 프로젝트의 코드를 꾸준히 복습할 계획입니다. <br /> <br />
 앞으로는 리액트 개발자로 성장하고자 하며, 리액트에 대한 깊은 이해와 기술을 습득하기 위해 지속적인 학습을 진행할 계획입니다. 리액트를 활용한 다양한 프로젝트에 참여하고, 개인적인 실력 향상을 위해 지속적으로 도전할 것입니다. 리액트 생태계의 새로운 트렌드와 기술 동향을 주시하며, 개발 커뮤니티와 지식 공유에도 참여하여 함께 성장하고 싶습니다.
 <br /> 
-<br /> <br />
+<br />
 현재 4학년 졸업작품으로 React와 Spring을 활용한 개발을 진행중입니다.
 저는 리액트를 맡았고 공부하며 진행중에 있습니다.
 열심히 하다보면 결과도 따라올거라고 믿습니다.
