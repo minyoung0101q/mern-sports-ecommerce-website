@@ -76,8 +76,8 @@ https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/
 > 또한 회원의 배달 완료 여부 표시를 관리자 페이지에서 해줍니다. <br />
 > 관리자가 배달 완료 표시해주면 => 회원은 배달 완료 유무를 확인합니다. <br />
 https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/2a7bdb67-f06e-4e94-95ca-c1d5c2f64ec4
-
 <br />
+
 > **지금부터 관리자 입장에서 BES 웹사이트를  과정을 시연 영상을 통해 보여드리겠습니다.** 
 <br />
 
