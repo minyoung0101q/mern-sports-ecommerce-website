@@ -67,6 +67,7 @@ https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/
 https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/d5370d40-7968-47ee-92ef-b110b2c990b3
 <br />
 <br />
+
 ### 주문번호 생성과정의 시연영상 <br />
 > 결제 이전까지의 과정을 담은 시연 영상 입니다. <br />
 https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/8188bc5e-44f3-44e8-be12-daefefcc8884 
